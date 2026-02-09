@@ -1,5 +1,7 @@
 ## Hi there I am Dev
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NostalgicWinters&layout=compact&theme=tokyonight&cache_seconds=1800)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NostalgicWinters&layout=compact&theme=tokyonight)
 
 
