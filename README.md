@@ -5,6 +5,6 @@
 -  I’m looking for freelance or internship opportunities
 -  My mail:- dev.sterling@outlook.com
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NostalgicWinters&show_icons=true&theme=tokyonight)
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NostalgicWinters&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=NostalgicWinters&theme=tokyonight)
