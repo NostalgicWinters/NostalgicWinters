@@ -14,7 +14,7 @@
 Interactive neural network visualization tool to understand training & gradients  
 - Built on top of micrograd  
 - Focused on learning & interpretability  
-- Tech: Python, NumPy (add more if used)
+- Tech: Python, NumPy, ELKjs, Reactjs, ReactFlow, FastAPI
 
 ---
 
