@@ -1,6 +1,6 @@
 ## Hi there I am Dev
 
-![GitHub Streak](https://streak-stats.demolab.com?user=NostagicWinters&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=NostalgicWinters&theme=tokyonight)
 
 
 <!--
