@@ -1,19 +1,9 @@
 ## Hi there I am Dev
 
-![GitHub Streak](https://streak-stats.demolab.com?user=NostalgicWinters&theme=tokyonight)
+-  I’m currently working on NeauralViz - A nearal network vizualisation tool build on top of micrograd
+-  I’m currently learning about neaural networks and their applications
+-  I’m looking for freelance or internship opportunities
+-  My mail:- dev.sterling@outlook.com
 
-
-<!--
-**NostalgicWinters/NostalgicWinters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Stats](https://github-readme-stats.vercel.app/api?username=NostalgicWinters&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=NostalgicWinters&theme=tokyonight)
