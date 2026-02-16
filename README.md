@@ -1,4 +1,4 @@
-## Hi there, I’m Dev 👋
+
 
 **CS Student | AI Engineer in Progress | Open-Source Builder**
 
