@@ -3,7 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Dev+Verma;+Welcome+to+My+Profile!;Always+learning+new+things+;AI+enthusiast+;Building+Production+ready+systems)](https://git.io/typing-svg)
 
-**CS Student | AI Engineer in Progress | Open-Source Builder**
+**![CS Student](https://img.shields.io/badge/CS_Student-brightgreen?style=for-the-badge)
+ | ![AI Engineer in Progress](https://img.shields.io/badge/AI_Engineer-Blue_in_Progress) | ![Open Source Builder](https://img.shields.io/badge/Open_Source_Builder-orange)
+**
 
 -  Currently working on **NeuralViz** — a neural network visualization tool built on top of micrograd  
 -  Learning neural networks and their real-world applications  
