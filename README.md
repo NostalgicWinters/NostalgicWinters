@@ -56,6 +56,8 @@ Interactive neural network visualization tool to understand training & gradients
 ---
 ## My Github Stats
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NostalgicWinters"></img>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NostalgicWinters&theme=tokyonight" />
 </p>
