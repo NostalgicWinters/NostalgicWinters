@@ -62,7 +62,7 @@ Interactive neural network visualization tool to understand training & gradients
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NostalgicWinters&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=NostalgicWinters&theme=tokyonight&v=2" />
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/NostalgicWinters/NostalgicWinters/output/github-contribution-grid-snake-dark.svg)
